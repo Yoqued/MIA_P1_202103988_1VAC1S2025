@@ -1,0 +1,1 @@
+Mkdisk -unit=k -size=5120 -fit=BF -path=/home/david/go/src/Proyecto1_Archivos/MIA_P1_202103988_1VAC1S2025/Discos/Disco21.mia
